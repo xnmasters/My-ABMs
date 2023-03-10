@@ -1,2 +1,2 @@
 # My-ABMs
-Accessable versions of my Netlogo models.
+Easy access to my Netlogo models
